@@ -1,0 +1,5 @@
+{
+  "name": "AyuTrace: Ayurvedic Herb Traceability",
+  "description": "A blockchain-powered traceability platform for Ayurvedic herbs, enabling geo-tagged tracking from collection to final product. Scan a QR code to view the complete provenance of your Ayurvedic products, ensuring authenticity and transparency.",
+  "requestFramePermissions": []
+}
